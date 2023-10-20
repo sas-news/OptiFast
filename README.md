@@ -6,7 +6,7 @@ Downloading OptiFine, one of the Minecraft Mods, is made faster by this extensio
 
 1. Download the souce code [here](https://github.com/sas-news/OptiFast/releases).
 2. Keep files in a non-delete location.
-3. Access [chrome://extensions/]() in Chrome.
+3. Access [chrome://extensions/](chrome://extensions/) in Chrome.
 4. Turn on developer mode in the upper right corner of the screen.
 5. Drag and drop the downloaded file into the window.
 6. Confirm that "OptiFast" is in the list of extensions.
