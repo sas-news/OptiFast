@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "OptiFast",
+  "version": "7.0",
+  "description": "Eliminates waiting time for Optifine",
+  "icons": {
+    "128": "icon128.png"
+  },
+  "action": {
+    "default_icon": "icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://optifine.net/downloads"],
+      "css": ["style.css"],
+      "js": ["script.js"]
+    }
+  ],
+  "background": {
+    "service_worker": "click.js"
+  }
+}
