@@ -1,5 +1,7 @@
 # OptiFast
 
+[日本語](README-ja.md)
+
 Downloading OptiFine, one of the Minecraft Mods, is made faster by this extension!
 
 ## Downlaod
