@@ -11,7 +11,10 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://optifine.net/downloads"],
+      "matches": [
+        "https://optifine.net/downloads",
+        "https://www.optifine.net/downloads"
+      ],
       "css": ["style.css"],
       "js": ["script.js"]
     }
